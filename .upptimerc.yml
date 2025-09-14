@@ -37,7 +37,7 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/the1ev234/status-thermal
 
 i18n:
   footer: "[Thermal](https://thermal.run.place) 2025-2025. This page is [open source]($REPO)."
