@@ -5,16 +5,16 @@ user-agent: the1ev234
 
 sites:
   - name: Thermal
-    url: https://thermal.run.place/
+    url: http://thermal.run.place/
     logoUrl: https://raw.githubusercontent.com/tp-link-extender/status/main/Mercury.svg
   - name: Client Setup
-    url: https://setup.thermal.run.place/
+    url: http://setup.thermal.run.place/
     logoUrl: https://raw.githubusercontent.com/tp-link-extender/status/main/Mercury.svg
   - name: API
-    url: https://thermal.run.place/api/
+    url: http://thermal.run.place/api/
     logoUrl: https://raw.githubusercontent.com/tp-link-extender/status/main/Mercury.svg
   - name: Asset Delivery
-    url: https://thermal.run.place/asset/
+    url: http://thermal.run.place/asset/
     logoUrl: https://raw.githubusercontent.com/tp-link-extender/status/main/Mercury.svg
     expectedStatusCodes:
       - 400
@@ -33,7 +33,7 @@ status-website:
   introTitle: "Thermal Status"
   navbar:
     - title: Thermal
-      href: https://thermal.run.place/
+      href: http://thermal.run.place/
     - title: Status
       href: /
     - title: GitHub
