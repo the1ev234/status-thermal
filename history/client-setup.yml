@@ -1,7 +1,7 @@
 url: http://setup.thermal.run.place/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-09-29T11:30:25.384Z
+status: up
+code: 200
+responseTime: 126
+lastUpdated: 2025-09-29T11:53:55.073Z
 startTime: 2025-09-14T18:15:20.922Z
 generator: Upptime <https://github.com/upptime/upptime>
